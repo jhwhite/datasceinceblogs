@@ -1,4 +1,4 @@
-#Import grab the OPML and import into your favorite news reader.
+#Grab the OPML and import into your favorite news reader.
 
 The collection of blogs came from [kdnuggets] (http://www.kdnuggets.com/websites/blogs.html).
 
