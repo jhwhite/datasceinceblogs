@@ -17,9 +17,10 @@
         
         <outline text="Popular blogs relevant to Business Analytics" title="Popular blogs relevant to Business Analytics">
             <outline type="rss" text="Freakonomics » Blog" title="Freakonomics » Blog" xmlUrl="http://www.freakonomics.com/blog/feed/" htmlUrl="http://freakonomics.com"/>
+            <outline type="rss" text="FiveThirtyEightFeatures | FiveThirtyEight" title="FiveThirtyEightFeatures | FiveThirtyEight" xmlUrl="http://fivethirtyeight.com/features/feed/" htmlUrl="http://fivethirtyeight.com"/>
             <outline type="rss" text="Jeff Jonas" title="Jeff Jonas" xmlUrl="http://jeffjonas.typepad.com/jeff_jonas/atom.xml" htmlUrl="http://jeffjonas.typepad.com/jeff_jonas/"/>
             <outline type="rss" text="Big Data, Plainly Spoken (aka Numbers Rule Your World)" title="Big Data, Plainly Spoken (aka Numbers Rule Your World)" xmlUrl="http://junkcharts.typepad.com/numbersruleyourworld/atom.xml" htmlUrl="http://junkcharts.typepad.com/numbersruleyourworld/"/>
-            <outline type="rss" text="FiveThirtyEight" title="FiveThirtyEight" xmlUrl="http://www.fivethirtyeight.com/feeds/posts/default" htmlUrl="http://fivethirtyeight.blogs.nytimes.com/"/>
+            <outline type="rss" text="FiveThirtyEight - OLD NYT" title="FiveThirtyEight - OLD NYT" xmlUrl="http://www.fivethirtyeight.com/feeds/posts/default" htmlUrl="http://fivethirtyeight.blogs.nytimes.com/"/>
             <outline type="rss" text="The Numbers Guy" title="The Numbers Guy" xmlUrl="http://blogs.wsj.com/numbersguy/feed/" htmlUrl="http://blogs.wsj.com/numbersguy"/>
         </outline>
 
