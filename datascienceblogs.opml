@@ -13,6 +13,7 @@
             <outline type="rss" text="Matt Cutts: Gadgets, Google, and SEO" title="Matt Cutts: Gadgets, Google, and SEO" xmlUrl="http://www.mattcutts.com/blog/feed/" htmlUrl="http://www.mattcutts.com/blog"/>
             <outline type="rss" text="Web Analytics, Behavioral Targeting..." title="Web Analytics, Behavioral Targeting..." xmlUrl="http://webanalysis.blogspot.com/feeds/posts/default" htmlUrl="http://webanalysis.blogspot.com/"/>
             <outline type="rss" text="Occam's Razor by Avinash Kaushik" title="Occam's Razor by Avinash Kaushik" xmlUrl="http://feeds.feedburner.com/OccamsRazorByAvinash" htmlUrl="http://www.kaushik.net/avinash"/>
+            <outline type="rss" text="Heap Data Blog" title="Heap Data Blog" xmlUrl="http://blog.heapanalytics.com/feed/" htmlUrl="http://blog.heapanalytics.com/"/>
         </outline>
         
         <outline text="Popular blogs relevant to Business Analytics" title="Popular blogs relevant to Business Analytics">
